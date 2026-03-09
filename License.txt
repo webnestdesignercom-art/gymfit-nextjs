@@ -1,0 +1,61 @@
+GymFit — React Fitness Website Template
+Copyright (c) 2025. All Rights Reserved.
+
+────────────────────────────────────────
+LICENSE AGREEMENT
+────────────────────────────────────────
+
+By downloading, installing, or using this template, you agree to the
+following terms and conditions.
+
+────────────────────────────────────────
+WHAT YOU ARE ALLOWED TO DO
+────────────────────────────────────────
+
+Personal Use
+  You may use this template to build a website for yourself,
+  your personal brand, or your own gym or fitness business.
+
+Client Work
+  You may use this template to build a website for a single
+  paying client. Each client project requires one license.
+
+Modification
+  You may modify the source code, design, and content to fit
+  your project needs.
+
+────────────────────────────────────────
+WHAT YOU ARE NOT ALLOWED TO DO
+────────────────────────────────────────
+
+No Reselling
+  You may not sell, sublicense, or otherwise distribute this
+  template — modified or unmodified — as a product, template,
+  or starter kit on any marketplace, platform, or website.
+  This includes but is not limited to: ThemeForest, Creative
+  Market, Etsy, Gumroad, or any similar service.
+
+No Redistribution
+  You may not share, upload, or make this template publicly
+  available for free or for sale in any form without explicit
+  written permission from the original author.
+
+No Claiming Ownership
+  You may not claim this template as your own original work
+  or remove this license from the project files.
+
+────────────────────────────────────────
+DISCLAIMER
+────────────────────────────────────────
+
+This template is provided "as is" without warranty of any kind,
+express or implied. The author is not liable for any damages
+arising from the use of this template.
+
+────────────────────────────────────────
+QUESTIONS
+────────────────────────────────────────
+
+For licensing inquiries, contact: webnestdesigner.com@gmail.com
+
+────────────────────────────────────────
