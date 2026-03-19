@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { Clock, Users} from 'lucide-react'
+import { useEffect } from 'react'
 
 const days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
@@ -48,8 +49,11 @@ const intensityColor = {
 }
 
 export function ClassSchedule() {
-  const today = new Date().toLocaleDateString('en-US', { weekday: 'short' }).slice(0, 3)
-  const [activeDay, setActiveDay] = useState(days.includes(today) ? today : 'Mon')
+    const [activeDay, setActiveDay] = useState('Mon') 
+    useEffect(() => {
+      const today = new Date().toLocaleDateString('en-US', { weekday: 'short' }).slice(0, 3)
+  if (days.includes(today)) setActiveDay(today)
+}, []) 
 
   const classes = schedule[activeDay] ?? []
 
